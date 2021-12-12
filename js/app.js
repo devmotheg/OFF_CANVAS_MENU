@@ -1,8 +1,8 @@
 /*!
-  @author Mohamed Muntasir
-  @link https://github.com/devmotheg
-  */
- 
+ * @author Mohamed Muntasir
+ * @link https://github.com/devmotheg
+ */
+
 const NAV_ELE = document.querySelector("nav"),
   HAMBURGER_BUTTON = document.querySelector(".hamburger-icon"),
   MAIN_ELE = document.querySelector("main");
